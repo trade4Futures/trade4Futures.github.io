@@ -8,15 +8,13 @@ tags: [選擇權]
 
 The [favicons](https://www.favicon-generator.org/about/) of [**Chirpy**](https://github.com/cotes2020/jekyll-theme-chirpy/) are placed in the directory `assets/img/favicons/`{: .filepath}. You may want to replace them with your own. The following sections will guide you to create and replace the default favicons.
 
-## Generate the favicon
+## 選擇權 (Option) 的概念
 
-Prepare a square image (PNG, JPG, or SVG) with a size of 512x512 or more, and then go to the online tool [**Real Favicon Generator**](https://realfavicongenerator.net/) and click the button <kbd>Select your Favicon image</kbd> to upload your image file.
+選擇權(Options，常簡稱OP)又稱為期權，是一種「未來可以用特定價格買賣商品的憑證」，選擇權買賣雙方會敲定契約、標的、履約價及買賣數量。
 
-In the next step, the webpage will show all usage scenarios. You can keep the default options, scroll to the bottom of the page, and click the button <kbd>Generate your Favicons and HTML code</kbd> to generate the favicon.
+## 買權(Call)與賣權(Put)
 
-## Download & Replace
-
-Download the generated package, unzip and delete the following two from the extracted files:
+買賣選擇權具有
 
 - `browserconfig.xml`{: .filepath}
 - `site.webmanifest`{: .filepath}

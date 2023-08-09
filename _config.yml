@@ -18,9 +18,15 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
+<<<<<<< Updated upstream
 title: CJ's BLOG # the main title
 
 tagline: Record Investment # it will display as the sub-title
+=======
+title: CJ's Blog # the main title
+
+tagline: 期權知識紀錄與分享 # it will display as the sub-title
+>>>>>>> Stashed changes
 
 description: >- # used by seo meta and the atom feed
   期貨,股票期貨,開戶,永豐期貨
